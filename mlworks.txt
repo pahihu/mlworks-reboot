@@ -1,0 +1,14 @@
+Windows shortcuts
+-----------------
+
+=== MLWorks 2.0 + Basis
+C:\Programs\MLWorks\bin\main-windows.exe -stack 5 -load ..\images\guib.img -pass a -source-path .. -pervasive-dir ..\pervasive a
+C:\Programs\MLWorks\bin
+
+===MLWorks 2.0 Documentation
+C:\Programs\MLWorks\documentation\doc_indx.htm
+C:\Programs\MLWorks\documentation
+
+=== MLWorks 2.0
+C:\Programs\MLWorks\bin\main-windows.exe -stack 5 -load ..\images\gui.img -pass a -source-path .. -pervasive-dir ..\pervasive a
+C:\Programs\MLWorks\bin
